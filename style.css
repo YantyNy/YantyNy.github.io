@@ -1,0 +1,75 @@
+.bgstyle
+{
+	/*background-color:#666;*/
+	background-image: url("..image/css");
+	background-position: right top;
+	background-attachment: fixed;
+}
+p
+{
+	font-size: 50px;
+
+}
+.borderstyle
+{
+	/*background: #ddd; */
+	/*border-left: solid 40px red;
+	border-left-style:solid;
+	border-right-style:dashed;
+	border-top-style:dotted;
+	border-bottom-style: groove;
+
+	border-left-color: red;
+	border-right-color:green;
+	border-top-color: blue;
+	border-bottom-color: gray;
+
+	border-left-width:5px;*/
+
+	border: solid;
+	border-color: red;
+	background-color: yellow;
+
+
+}
+body
+{
+	background-image: url(...bgstyle
+{
+	/*background-color:#666;*/
+	background-image: url("..image/css");
+	background-position: right top;
+	background-attachment: fixed;
+}
+p
+{
+	font-size: 50px;
+
+}
+.borderstyle
+{
+	/*background: #ddd; */
+	/*border-left: solid 40px red;
+	border-left-style:solid;
+	border-right-style:dashed;
+	border-top-style:dotted;
+	border-bottom-style: groove;
+
+	border-left-color: red;
+	border-right-color:green;
+	border-top-color: blue;
+	border-bottom-color: gray;
+
+	border-left-width:5px;*/
+
+	border: solid;
+	border-color: red;
+	background-color: yellow;
+
+
+}
+body
+{
+	background-image: url("../images/ ");
+}
+}
